@@ -10,6 +10,7 @@ The uploaded projects mainly consists of HTML files, each representing a project
 1. Project 1: MEME Creation
    * index.html  
      _Using R package Magick to create a meme and add animation._
+     Link: https://char-wu.github.io/UOA-stats220/
 2. Project 2: Google Survey
    * In progress
      
