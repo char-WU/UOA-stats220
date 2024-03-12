@@ -1,6 +1,5 @@
 # UOA-STATS220
-Welcome to my UOA-STATS220 repository! 
-
+Welcome to my UOA-STATS220 repository!  
 This repository is for projects related to the STATS220 course at the University of Auckland.
 
 # Contents
