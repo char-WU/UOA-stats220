@@ -8,12 +8,12 @@ Welcome to my UOA-STATS220 repository! This repository is for projects related t
 ## Projects overview
 The uploaded projects mainly consists of mardown files, each representing a project.
 1. Project 1: MEME Creation
-   * project1_report.html  
+   * index.html  
      _Using R package Magick to create a meme and add animation._
 2. Project 2: Google Survey
    * In progress
      
-_Note: Project files and details can be found within the corresponding project folders._
+_Note: HTML files and details can be found under the main branch._
 
 ## Contact information
 For any questions, feel free to reach out:  
